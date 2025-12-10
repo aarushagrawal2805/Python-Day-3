@@ -1,5 +1,5 @@
 string = "hello"
-freq = {}         # empty dictionary to store result
+freq = {}         
 
 for char in string:
     if char in freq:     # if character already exists in dictionary
